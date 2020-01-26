@@ -1,0 +1,77 @@
+.App {
+  display: flex;
+  flex-flow: column;
+  padding: 1em;
+  margin: auto;
+}
+
+.Title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.5em;
+  line-height: 30px;
+  color: #e5e5e5;
+  padding-bottom: 1em;
+}
+
+.CategoryHeader {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.5em;
+  color: #e5e5e5;
+  margin-bottom: -1em;
+}
+
+.CategoryList {
+  font-family: Roboto;
+  font-size: 1.2em;
+  color: #e5e5e5;
+  list-style: none;
+}
+
+@media only screen and (max-width: 600px) {
+  .CategoryItem {
+    padding-right: 1em;
+    margin-left: -2em;
+    padding-top: 1em;
+  }
+}
+
+@media only screen and (min-width: 601px) {
+  .CategoryItem {
+    padding-right: 1em;
+    padding-top: 0.5em;
+  }
+}
+
+.Comment {
+  color: #00fbac;
+}
+
+a {
+  color: #e5e5e5;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+  text-shadow: 0px 0px 10px #00bfff;
+}
+
+/* visited link */
+a:visited {
+  text-shadow: 0px 0px 10px #df95ff;
+}
+
+/* mouse over link */
+a:hover {
+  text-shadow: 0px 0px 10px #86cbfe;
+}
+
+/* selected link */
+a:active {
+  text-shadow: 0px 0px 10px #fffa6a;
+}

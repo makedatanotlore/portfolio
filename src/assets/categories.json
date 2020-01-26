@@ -1,0 +1,65 @@
+[
+  {
+    "categoryName": "Software",
+    "items": [
+      {
+        "name": "Portfolio",
+        "description": "This site right here",
+        "comment": "react + typescript",
+        "url": "https://github.com/makedatanotlore/portfolio"
+      },
+      {
+        "name": "SCVMBIRTHER",
+        "description": "Character generator for MÖRK BORG",
+        "comment": "pwa made with react.js",
+        "url": "https://scvmbirther.makedatanotlore.dev/"
+      },
+      {
+        "name": "Fobbot",
+        "description": "Dice roller for Forbidden Lands",
+        "comment": "discord bot <3 python",
+        "url": "https://github.com/makedatanotlore/fobbot-discord"
+      },
+      {
+        "name": "Slumpgen",
+        "description": "NPC generator for Forbidden Lands",
+        "comment": "android app (java)",
+        "url": "https://play.google.com/store/apps/details?id=com.alming.slumpgen&hl=en_US"
+      }
+    ]
+  },
+  {
+    "categoryName": "rpg content",
+    "items": [
+      {
+        "name": "Cursed Skinwalker",
+        "description": "Character class for MÖRK BORG",
+        "comment": "d6: 1.🐀 2. 🐺 3.🦅 4.🐻 5.🦎 6.🐒",
+        "url": "https://drive.google.com/open?id=1-dKAOPV65Hz0O0h09iEQqNVQdsQ2llJX"
+      }
+    ]
+  },
+  {
+    "categoryName": "social",
+    "items": [
+      {
+        "name": "Github",
+        "description": "",
+        "comment": "🐱 + 🐙",
+        "url": "https://github.com/makedatanotlore/"
+      },
+      {
+        "name": "Twitter",
+        "description": "",
+        "comment": "🐦+ 💬",
+        "url": "https://twitter.com/makedatanotlore"
+      },
+      {
+        "name": "Linkedin",
+        "description": "",
+        "comment": "💼 + 🏢",
+        "url": "https://www.linkedin.com/in/makedatanotlore/"
+      }
+    ]
+  }
+]
