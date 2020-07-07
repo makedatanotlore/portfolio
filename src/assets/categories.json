@@ -1,12 +1,12 @@
 [
   {
-    "categoryName": "Software",
+    "categoryName": "coding coding coding",
     "items": [
       {
-        "name": "Portfolio",
-        "description": "This site right here",
-        "comment": "react + typescript",
-        "url": "https://github.com/makedatanotlore/portfolio"
+        "name": "DNGNGEN",
+        "description": "Dungeon generator for MÖRK BORG",
+        "comment": "pwa made with react and typescript",
+        "url": "https://dngngen.makedatanotlore.dev/"
       },
       {
         "name": "SCVMBIRTHER",
@@ -29,8 +29,14 @@
     ]
   },
   {
-    "categoryName": "rpg content",
+    "categoryName": "roleplaying game content",
     "items": [
+      {
+        "name": "Sacrilegious Songbird",
+        "description": "Character class for MÖRK BORG",
+        "comment": "Always the bringer of unwelcome sounds, your vocation as a bard left you destitute and disreputable... until the rueful day when a being of impious character made you the deal of a lifetime.",
+        "url": "https://drive.google.com/file/d/1a2XfBGm9LHW9fgXV_riEg3wHW03bWkse/"
+      },
       {
         "name": "Eat Prey Kill",
         "description": "Hunting rules and bestiary for MÖRK BORG",
